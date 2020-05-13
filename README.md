@@ -9,17 +9,23 @@ My workflow for the final project is as follows, scripts are designated with a #
 
   -Rabbit genome
 ftp://ftp.ensembl.org/pub/release-100/fasta/oryctolagus_cuniculus/pep/Oryctolagus_cuniculus.OryCun2.0.pep.all.fa.gz
-  -Guinea Pig genome 
+
+-Guinea Pig genome 
 ftp://ftp.ensembl.org/pub/release-99/fasta/cavia_porcellus/pep/Cavia_porcellus.Cavpor3.0.pep.all.fa.gz
-  -Mouse genome 
+
+-Mouse genome 
 ftp://ftp.ensembl.org/pub/release-100/fasta/mus_musculus/pep/Mus_musculus.GRCm38.pep.all.fa.gz
-  -Dog genome
+
+-Dog genome
 ftp://ftp.ensembl.org/pub/release-100/fasta/canis_lupus_familiaris/pep/Canis_lupus_familiaris.CanFam3.1.pep.all.fa.gz
-  -Cat genome
+
+-Cat genome
 ftp://ftp.ensembl.org/pub/release-100/fasta/felis_catus/pep/Felis_catus.Felis_catus_9.0.pep.all.fa.gz 
-  -Gerbil genome
+
+-Gerbil genome
 ftp://ftp.ensembl.org/pub/release-100/fasta/meriones_unguiculatus/pep/Meriones_unguiculatus.MunDraft-v1.0.pep.all.fa.gz
-  -Armadillo genome
+
+-Armadillo genome
 ftp://ftp.ensembl.org/pub/release-100/fasta/dasypus_novemcinctus/pep/Dasypus_novemcinctus.Dasnov3.0.pep.all.fa.gz
 
 # wget filename.fa.gz
