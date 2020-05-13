@@ -3,7 +3,7 @@ This is the repository for my final project
 
 The goal of this project is to examine the evolutionary timeline of the rabbit, and detemining its relationship to other pet animals. I will root the tree using the armadillo, something which diverged before mammals.
 
-My workflow for the final project is as follows, scripts are designated with a # 
+My workflow for the final project is as follows, scripts are designated with excessively large letters as github is hard
 
 1. download full sequence data for each species used for tree generation
 
